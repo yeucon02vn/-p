@@ -1,2 +1,1 @@
-# -p
-Đồ án nhập môn công nghệ phần mềm
+# Đồ án nhập môn công nghệ phần mềm
